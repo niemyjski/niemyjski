@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Speaking at North Dallas Developers](https://blakeniemyjski.com/blog/speaking-at-north-dallas-developers/)
+- [How-to: Using NFC Tags to trigger device or home automations](https://blakeniemyjski.com/blog/how-to-using-nfc-tags-to-trigger-device-or-home-automation/)
+- [How-to normalize home volume levels with Node-RED](https://blakeniemyjski.com/blog/how-to-normalize-home-volume-levels-with-node-red/)
+- [How-to send Text-to-Speech notifications with Home Assistant and Node-RED](https://blakeniemyjski.com/blog/how-to-send-text-to-speech-notifications-with-home-assistant-and-node-red/)
+- [Let's talk about smart home accessibility](https://blakeniemyjski.com/blog/lets-talk-about-smart-home-accessibility/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemyjski&layout=compact&hide=html" alt="niemyjski" /></p>
