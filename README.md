@@ -18,6 +18,4 @@
 - [Let's talk about smart home accessibility](https://blakeniemyjski.com/blog/lets-talk-about-smart-home-accessibility/)
 <!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemyjski&layout=compact&hide=html" alt="niemyjski" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niemyjski&show_icons=true" alt="niemyjski" /></p>
