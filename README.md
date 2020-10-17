@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing smart home devices with ESPHome and Home Assistant](https://blakeniemyjski.com/blog/securing-smart-home-devices-with-esphome-and-home-assistant/)
 - [Building and maintaining a smart home presentation](https://blakeniemyjski.com/blog/building-and-maintaining-a-smart-home-presentation/)
 - [Speaking at North Dallas Developers](https://blakeniemyjski.com/blog/speaking-at-north-dallas-developers/)
 - [How-to: Using NFC Tags to trigger device or home automations](https://blakeniemyjski.com/blog/how-to-using-nfc-tags-to-trigger-device-or-home-automation/)
 - [How-to normalize home volume levels with Node-RED](https://blakeniemyjski.com/blog/how-to-normalize-home-volume-levels-with-node-red/)
-- [How-to send Text-to-Speech notifications with Home Assistant and Node-RED](https://blakeniemyjski.com/blog/how-to-send-text-to-speech-notifications-with-home-assistant-and-node-red/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niemyjski&show_icons=true" alt="niemyjski" /></p>
