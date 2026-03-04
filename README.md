@@ -17,5 +17,3 @@
 - [Securing smart home devices with ESPHome and Home Assistant](https://blakeniemyjski.com/blog/securing-smart-home-devices-with-esphome-and-home-assistant/)
 - [Building and maintaining a smart home presentation](https://blakeniemyjski.com/blog/building-and-maintaining-a-smart-home-presentation/)
 <!-- BLOG-POST-LIST:END -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niemyjski&show_icons=true" alt="niemyjski" /></p>
