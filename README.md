@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Driven Development &lpar;ADD&rpar;: AGENTS.md, Skills, and the Full Workflow](https://blakeniemyjski.com/blog/agentic-driven-development/)
 - [How-to get notifications when your mailbox is opened](https://blakeniemyjski.com/blog/how-to-get-notifications-when-your-mailbox-is-opened/)
 - [Disturbing trends in smart home products and services](https://blakeniemyjski.com/blog/disturbing-trends-in-smart-home-products-and-services/)
 - [Securing smart home devices with ESPHome and Home Assistant](https://blakeniemyjski.com/blog/securing-smart-home-devices-with-esphome-and-home-assistant/)
 - [Building and maintaining a smart home presentation](https://blakeniemyjski.com/blog/building-and-maintaining-a-smart-home-presentation/)
-- [Speaking at North Dallas Developers](https://blakeniemyjski.com/blog/speaking-at-north-dallas-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niemyjski&show_icons=true" alt="niemyjski" /></p>
